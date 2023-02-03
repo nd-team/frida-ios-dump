@@ -1,10 +1,10 @@
 asn1crypto
-bcrypt
+bcrypt<4.0.0
 cffi
 colorama
 cryptography
 enum34
-frida-tools
+frida-tools==10.8.0
 idna
 ipaddress
 paramiko
